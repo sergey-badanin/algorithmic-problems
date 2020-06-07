@@ -1,1 +1,3 @@
-My solutions for random algorithmic programming problems
+### Solutions to algorithmic programming problems
+
+_TODO: Complete "binary tree diameter" solution_
